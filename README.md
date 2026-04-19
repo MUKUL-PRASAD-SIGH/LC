@@ -43,8 +43,13 @@
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
