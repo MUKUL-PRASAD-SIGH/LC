@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Two Pointers
