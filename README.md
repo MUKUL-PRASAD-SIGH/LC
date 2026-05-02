@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0788-rotated-digits](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0788-rotated-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Math
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
