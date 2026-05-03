@@ -59,4 +59,12 @@
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0788-rotated-digits) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
