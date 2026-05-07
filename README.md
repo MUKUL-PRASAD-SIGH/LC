@@ -54,15 +54,18 @@
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Math
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0788-rotated-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
