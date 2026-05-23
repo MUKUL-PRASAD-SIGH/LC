@@ -43,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0014-longest-common-prefix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -64,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0014-longest-common-prefix) |
 | [0796-rotate-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
