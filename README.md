@@ -81,4 +81,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
