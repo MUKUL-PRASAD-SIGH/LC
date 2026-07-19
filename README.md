@@ -53,6 +53,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Greedy
@@ -79,6 +80,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
@@ -90,12 +92,14 @@
 | [0141-linked-list-cycle](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0234-palindrome-linked-list) |
 ## Database
 |  |
 | ------- |
