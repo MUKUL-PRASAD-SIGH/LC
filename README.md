@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0050-powx-n) |
 | [0788-rotated-digits](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0788-rotated-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -103,6 +104,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0234-palindrome-linked-list) |
 ## Database
