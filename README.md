@@ -28,6 +28,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0788-rotated-digits](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0788-rotated-digits) |
 ## Breadth-First Search
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0022-generate-parentheses) |
 | [0796-rotate-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -116,4 +118,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
