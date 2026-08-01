@@ -46,6 +46,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0078-subsets) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
