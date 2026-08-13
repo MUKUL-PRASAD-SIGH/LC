@@ -90,6 +90,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
@@ -137,4 +138,12 @@
 | ------- |
 | [0078-subsets](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0090-subsets-ii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
