@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0022-generate-parentheses) |
 | [0796-rotate-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -90,6 +91,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0234-palindrome-linked-list) |
@@ -149,4 +151,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
