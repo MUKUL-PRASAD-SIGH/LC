@@ -51,6 +51,7 @@
 | [0078-subsets](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0216-combination-sum-iii) |
+| [0496-next-greater-element-i](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0503-next-greater-element-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -99,6 +100,7 @@
 | [0225-implement-stack-using-queues](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
@@ -132,6 +134,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -164,5 +167,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
