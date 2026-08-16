@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0078-subsets) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0234-palindrome-linked-list) |
