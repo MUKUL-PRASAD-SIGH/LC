@@ -53,6 +53,7 @@
 | [0042-trapping-rain-water](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0503-next-greater-element-ii) |
@@ -76,6 +77,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0135-candy) |
 | [1903-largest-odd-number-in-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Math
