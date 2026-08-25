@@ -58,6 +58,7 @@
 | [0455-assign-cookies](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0503-next-greater-element-ii) |
+| [0860-lemonade-change](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0135-candy](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Math
