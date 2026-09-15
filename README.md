@@ -75,6 +75,7 @@
 | [0090-subsets-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0503-next-greater-element-ii) |
@@ -93,6 +94,7 @@
 | [0141-linked-list-cycle](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
