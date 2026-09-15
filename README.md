@@ -77,6 +77,7 @@
 | [0216-combination-sum-iii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0503-next-greater-element-ii) |
 | [0860-lemonade-change](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0860-lemonade-change) |
