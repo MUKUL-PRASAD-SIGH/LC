@@ -46,6 +46,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0788-rotated-digits](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -71,6 +72,7 @@
 | [0039-combination-sum](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0135-candy) |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
