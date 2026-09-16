@@ -74,6 +74,7 @@
 | [0078-subsets](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0455-assign-cookies) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0078-subsets](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0136-single-number) |
 ## Design
 |  |
 | ------- |
