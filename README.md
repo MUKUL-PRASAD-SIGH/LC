@@ -34,6 +34,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -74,6 +75,7 @@
 | [0101-symmetric-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
@@ -263,4 +265,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0053-maximum-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
