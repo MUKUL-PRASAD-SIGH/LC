@@ -30,6 +30,7 @@
 | [0101-symmetric-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -75,6 +76,7 @@
 | [0101-symmetric-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -103,6 +105,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0455-assign-cookies) |
@@ -268,9 +271,14 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
