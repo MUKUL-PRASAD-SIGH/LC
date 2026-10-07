@@ -38,6 +38,7 @@
 | [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0860-lemonade-change](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1020-number-of-enclaves) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -273,6 +276,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -281,4 +285,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
