@@ -102,6 +102,7 @@
 | [0040-combination-sum-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0066-plus-one) |
 | [0788-rotated-digits](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0788-rotated-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
