@@ -68,6 +68,7 @@
 | [0053-maximum-subarray](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Breadth-First Search
@@ -78,6 +79,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -115,6 +117,7 @@
 | [0485-max-consecutive-ones](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0542-01-matrix) |
 | [0860-lemonade-change](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -287,5 +290,6 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
