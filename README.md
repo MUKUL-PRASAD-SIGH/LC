@@ -126,6 +126,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -292,4 +293,8 @@
 | [0200-number-of-islands](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1020-number-of-enclaves) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
