@@ -91,6 +91,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0633-sum-of-square-numbers](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -138,6 +139,7 @@
 | [0234-palindrome-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -154,6 +156,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0066-plus-one) |
+| [0633-sum-of-square-numbers](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0788-rotated-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
