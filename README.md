@@ -38,6 +38,7 @@
 | [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
@@ -84,6 +85,7 @@
 | [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
@@ -294,6 +296,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Matrix
 |  |
 | ------- |
@@ -312,4 +315,16 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
