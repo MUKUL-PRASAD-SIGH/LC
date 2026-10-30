@@ -82,6 +82,7 @@
 | [0101-symmetric-tree](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0210-course-schedule-ii) |
@@ -173,6 +174,7 @@
 | [0014-longest-common-prefix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0022-generate-parentheses) |
+| [0127-word-ladder](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0127-word-ladder) |
 | [0796-rotate-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -223,6 +225,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0496-next-greater-element-i) |
@@ -339,4 +342,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
