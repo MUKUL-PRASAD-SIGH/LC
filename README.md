@@ -71,6 +71,7 @@
 | [0042-trapping-rain-water](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -117,6 +118,7 @@
 | [0040-combination-sum-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0090-subsets-ii) |
@@ -315,6 +317,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/1020-number-of-enclaves) |
