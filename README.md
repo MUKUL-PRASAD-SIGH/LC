@@ -70,6 +70,7 @@
 | [0022-generate-parentheses](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -354,4 +356,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MUKUL-PRASAD-SIGH/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
